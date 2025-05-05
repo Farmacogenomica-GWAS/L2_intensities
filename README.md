@@ -26,3 +26,6 @@ This document describes the processing of the `L2_intensities.hdf5` file using P
 **Purpose:**
 
 The processing steps outlined here were performed to make the intensity-related data contained within the `L2_intensities.hdf5` file more readily available for analysis. The conversion to CSV format allows for easier manipulation and exploration of the data using standard data analysis tools. The extraction of metadata from the `provenance_tracking` group was handled separately to capture this information. Visualizing the first few rows of each output CSV provides a quick check of the extraction process.
+
+
+
